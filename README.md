@@ -1,5 +1,4 @@
-# Yo I'm synthol
-You'll like this profile :)
+# Hello I'm synthol
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=syntholek&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
