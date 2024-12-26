@@ -3,7 +3,7 @@ Hello, my name is ogaxe, I am a developer from Poland and I specialize in cybers
 
 # 🛠️ Tech Stack:
   - Programming Languages: Python
-  - Learning Languages: JavaScript, C++, C#
+  - Learning Languages: Java, C++, C#
   
 # 🎁 Cybersecurity Expertise:
   - Malware Analysis: specialized in Reverse engineering and malware analysis
