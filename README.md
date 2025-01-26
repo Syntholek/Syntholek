@@ -1,5 +1,7 @@
 # 👾 Welcome to my GitHub Profile! 👾
 Hello, my name is ogaxe, I am a developer from Poland and I specialize in cybersecurity based on malware, reverse engineering and spreading techniques
+📫 How to reach me syntholl on discord
+⚡ Fun fact I love coding malware
 
 # 🛠️ Tech Stack:
   - Programming Languages: Python
